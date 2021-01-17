@@ -1,0 +1,7 @@
+&lt;script&gt;
+location.href = 'https://opentutorials.org/course/1';
+&lt;/script&gt;
+
+XSS - 크로스사이트 스크립팅 
+자바스크립트 코드를 통해 서버에 접근하여 서버의 데이터를 조작하는 행위이다.
+자바스크립트 코드를 삽입하지 못하도록 방지하여야 한다.

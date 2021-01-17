@@ -1,0 +1,25 @@
+{
+  "name": "node.js_study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehdqkd616/Node.js_Study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ehdqkd616/Node.js_Study/issues"
+  },
+  "homepage": "https://github.com/ehdqkd616/Node.js_Study#readme",
+  "dependencies": {
+    "sanitize-html": "^2.3.0"
+  }
+}
