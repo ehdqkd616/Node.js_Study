@@ -2,7 +2,7 @@ var http = require('http'); // http 모듈
 var fs = require('fs'); // File System 모듈
 var url = require('url'); // url 모듈
 var qs = require('querystring'); // querystring 모듈
-var template = require('../lib/template.js'); // template를 모듈로 만들어서 외부에서 불러와서 사용
+var template = require('./lib/template.js'); // template를 모듈로 만들어서 외부에서 불러와서 사용
 var path = require('path');
 var sanitizeHtml = require('sanitize-html');
 
